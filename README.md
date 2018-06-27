@@ -8,3 +8,4 @@ this line is added from v1.0.0 branch.
 ----------------------------
 this line is added by branch dev.
 this line is added by branch dev2
+line3 added by branch dev.
